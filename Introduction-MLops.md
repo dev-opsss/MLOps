@@ -13,9 +13,10 @@ Machine learning has evolved from research labs to becoming a critical component
 At its core, MLOps applies DevOps methodologies—such as version control, automated testing, and CI/CD pipelines—to data-intensive workflows specifically designed for machine learning. Unlike traditional software, ML systems must handle data variability, experiment tracking, model versioning, and inference monitoring, making MLOps an essential framework for modern AI deployment.
 
 <img width="1536" height="1151" alt="image" src="https://github.com/user-attachments/assets/5f776700-2c25-475e-82fd-732937e4d0f4" />
-
-
-*Image: MLOps lifecycle workflow showing Design, Model Development, and Operations phases* Credit: Community MLOps diagrams.
+![MLOps Lifecycle Diagram](path/to/mlops-lifecycle.png)
+*Image credit: Community MLOps diagrams (https://ml-ops.org/)*
+*Image: MLOps lifecycle workflow showing Design, Model Development, and Operations phases* 
+Credit: Community MLOps diagrams.
 
 
 ---
