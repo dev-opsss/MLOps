@@ -15,7 +15,7 @@ At its core, MLOps applies DevOps methodologies—such as version control, autom
 <img width="1536" height="1151" alt="image" src="https://github.com/user-attachments/assets/5f776700-2c25-475e-82fd-732937e4d0f4" />
 
 
-*Image: MLOps lifecycle workflow showing Design, Model Development, and Operations phases* https://ml-ops.org/content/mlops-principles
+*Image: MLOps lifecycle workflow showing Design, Model Development, and Operations phases* Credit: Community MLOps diagrams.
 
 
 ---
@@ -85,9 +85,10 @@ Once deployed, models require ongoing observation and maintenance:
 
 This phase ensures models remain effective and adaptable, meeting the evolving demands of production environments.
 
-[38]
+<img width="1536" height="1106" alt="image" src="https://github.com/user-attachments/assets/375a1058-d17c-4a5f-8e4b-774d50a7b34c" />
 
-*Image: MLOps architecture showing the complete workflow in Azure ecosystem*
+
+*Image: MLOps architecture showing the complete workflow in Azure ecosystem*Credit: Azure ML DevOps documentation.
 
 ---
 
