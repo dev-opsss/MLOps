@@ -494,20 +494,6 @@ This guide synthesizes insights from multiple authoritative sources:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-## References and Citations
-
-- Kreuzberger, D., Kühl, N., & Hirschl, S. (2022). Machine Learning Operations (MLOps): Overview, Definition, and Architecture. arXiv:2205.02302.
-- MLOps Spanning Whole Machine Learning Life Cycle: A Survey (2023). arXiv:2304.07296.
-- Navigating MLOps: Insights into Maturity, Lifecycle, Tools, and Careers (2025). arXiv:2503.15577.
-- Google Cloud MLOps: Continuous Delivery and Automation Pipelines.
-- Microsoft Azure: MLOps Maturity Model Documentation.
-- AWS: Machine Learning Operations Explained.
-- Databricks: MLOps Best Practices.
-- MLOps.org: Community Principles.
-- Neptune.ai: MLOps Practical Guides.
-- MLflow: Experiment Tracking Guide.
-- Evidently AI: Data and Model Drift Monitoring.
----
 
 **⭐ If you find this guide helpful, please consider giving it a star!**
 
